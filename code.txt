@@ -1,5 +1,3 @@
 hello world
-<<<<<<< HEAD
-=======
 xin chao tran ngoc anh tai sv1
->>>>>>> 0306241240-tran-ngoc-anh-tai-sv1
+
